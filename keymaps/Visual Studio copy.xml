@@ -17,7 +17,6 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
-  <action id="GotoNextError" />
   <action id="MethodDown" />
   <action id="MethodHierarchy" />
   <action id="MethodUp" />
@@ -33,9 +32,8 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
+  <action id="RemoteHostView.Rename" />
+  <action id="RenameElement" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>

@@ -1,5 +1,5 @@
 <templateSet group="Angular">
-  <template name="a-module" value="import { NgModule } from '@angular/core';&#10;&#10;@NgModule({&#10; imports: [&#10; ],&#10; exports: [&#10; ],&#10; declarations: [&#10; ],&#10; providers: [&#10; ],&#10;})&#10;export class $Name$Module { }&#10;$END$" description="Angular Module" toReformat="true" toShortenFQNames="true">
+  <template name="a-module" value="import { NgModule } from '@angular/core';&#10;&#10;@NgModule({&#10; imports: [&#10; ],&#10; exports: [&#10; ],&#10; declarations: [&#10; ],&#10; providers: [&#10; ],&#10;})&#10;export class $Name$ { }&#10;$END$" description="Angular Module" toReformat="true" toShortenFQNames="true">
     <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
     <context />
   </template>

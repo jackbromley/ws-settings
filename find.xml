@@ -3,37 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*t</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*ts</mask>
-      <mask>.m</mask>
-      <mask>.mo</mask>
-      <mask>.mod</mask>
-      <mask>.modu</mask>
-      <mask>.module</mask>
-      <mask>.module.</mask>
-      <mask>.module.ts</mask>
-      <mask>.</mask>
-      <mask>.ts</mask>
-      <mask>*.m</mask>
-      <mask>*.modi</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.mo</mask>
-      <mask>*.mod</mask>
-      <mask>*.modu</mask>
-      <mask>*.modul</mask>
-      <mask>*.module</mask>
-      <mask>*.module.</mask>
-      <mask>*..ts</mask>
-      <mask>*.html</mask>
-      <mask>*.ts</mask>
-      <mask>*.less</mask>
-      <mask>*.module.ts</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.module.ts" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.module.ts</mask>
   </component>
 </application>

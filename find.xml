@@ -14,8 +14,8 @@
     <mask>*.mxml</mask>
     <mask>*ts</mask>
     <mask>*.json</mask>
-    <mask>*.module.ts</mask>
     <mask>*.less</mask>
     <mask>*.ts</mask>
+    <mask>*.module.ts</mask>
   </component>
 </application>

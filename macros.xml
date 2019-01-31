@@ -1,0 +1,11 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="remove trailing whitespace">
+      <action id="EditorTextStart" />
+      <action id="Replace" />
+      <action id="EditorPaste" />
+      <action id="$SelectAll" />
+      <action id="EditorBackSpace" />
+    </macro>
+  </component>
+</application>

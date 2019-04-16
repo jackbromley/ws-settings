@@ -23,5 +23,6 @@
     <mask>*.less</mask>
     <mask>*.ts</mask>
     <mask>*.module.ts</mask>
+    <mask>*-tx.ts</mask>
   </component>
 </application>

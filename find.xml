@@ -23,7 +23,7 @@
     <mask>*.component.ts</mask>
     <mask>*.ts</mask>
     <mask>*.less</mask>
-    <mask>*.module.ts</mask>
     <mask>`</mask>
+    <mask>*.module.ts</mask>
   </component>
 </application>

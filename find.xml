@@ -19,9 +19,9 @@
     <mask>*.html</mask>
     <mask>*-tx.ts</mask>
     <mask>*.component.ts</mask>
-    <mask>*.less</mask>
     <mask>`</mask>
     <mask>*.ts</mask>
+    <mask>*.less</mask>
     <mask>*.module.ts</mask>
   </component>
 </application>

@@ -23,6 +23,10 @@
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="EditorScrollToCenter" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift f12" />
   </action>
@@ -47,6 +51,7 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="OverrideMethods" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>

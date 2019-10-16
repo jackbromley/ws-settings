@@ -26,7 +26,7 @@
     <mask>*.service.ts</mask>
     <mask>*.spec.ts</mask>
     <mask>*.html</mask>
-    <mask>*.module.ts</mask>
     <mask>*.component.ts</mask>
+    <mask>*.module.ts</mask>
   </component>
 </application>
